@@ -10,5 +10,9 @@ Operations leader with experience working within cross-functional teams to drive
 - Strategic Consulting, including business plan & sales strategy development.
 - Advising new businesses on inventory functions. Shipping functions.
 
-## Paddys34.com
-<img src="images/paddys-logo-3.svg" alt="Paddy's Logo" style="width:200px;">
+
+
+| Projects | Description |
+| ----------- | ----------- |
+| <img src="images/paddys-logo-3.svg" alt="Paddy's Logo" style="width:50px;"> | www.paddys34.com |
+| Logo | www.leducartandantiques.com |
