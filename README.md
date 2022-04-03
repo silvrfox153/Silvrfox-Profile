@@ -1,5 +1,3 @@
-<img src="images/paddys-logo-3.svg" alt="Paddy's Logo" style="width:200px;">
-
 ## SUMMARY:
 Operations leader with experience working within cross-functional teams to drive innovative solutions through process improvement, relationship management, project management, and employee development. Adept at wearing multiple hats and digging into the details without losing sight of the bigger picture. Passionate about finding and solving challenging problems with great people.
 
@@ -11,3 +9,6 @@ Operations leader with experience working within cross-functional teams to drive
 - Integrated online payment gateways. Integrated PayPal and Stripe payment APIs.
 - Strategic Consulting, including business plan & sales strategy development.
 - Advising new businesses on inventory functions. Shipping functions.
+
+## Paddys34.com
+<img src="images/paddys-logo-3.svg" alt="Paddy's Logo" style="width:200px;">
