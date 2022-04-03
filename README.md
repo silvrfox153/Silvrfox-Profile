@@ -15,4 +15,4 @@ Operations leader with experience working within cross-functional teams to drive
 | Projects | Description |
 | ----------- | ----------- |
 | <img src="images/paddys-logo-3.svg" alt="Paddy's Logo" style="width:50px;"> | www.paddys34.com |
-| <img src="images/leduc-art-antiques-logo.svg" alt="Leduc Art & Antiques Logo" style="width:50px;"> | www.leducartandantiques.com |
+| <img src="images/leduc-art-antiques-logo-2.svg" alt="Leduc Art & Antiques Logo" style="width:50px;"> | www.leducartandantiques.com |
