@@ -71,8 +71,7 @@ Operations leader with experience working within cross-functional teams to drive
 - Monitored backup and recovery systems, triaged connectivity issues, performed hardware/software upgrades, and followed escalation procedures when necessary.
 
 ### SKILLS:
-Proficient: HTML, CSS, JavaScript
-Familiar: 
+#### Proficient: HTML, CSS, JavaScript
 
 ### EDUCATION:
 ### Boston College, Chestnut Hill, MA	
