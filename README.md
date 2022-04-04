@@ -61,9 +61,9 @@ Operations leader with experience working within cross-functional teams to drive
 
 ### AT&T Broadband, North Reading, MA	2000 – 2003
 #### Network Project Manager - Corporate IT Data Networks
--Central Point of contact for Corporate IT projects related to Mergers and Acquisitions.
--Partnered with legal and technical teams to review the scope within Transitional Services Agreements.
--Managed timelines and communicated network asset integration/separation requirements with corporate IT network engineers and regional IT Directors.
+- Central Point of contact for Corporate IT projects related to Mergers and Acquisitions.
+- Partnered with legal and technical teams to review the scope within Transitional Services Agreements.
+- Managed timelines and communicated network asset integration/separation requirements with corporate IT network engineers and regional IT Directors.
 
 ### Genuity, Cambridge, MA	 1999 – 2000
 #### Implementation Engineer
