@@ -51,3 +51,35 @@ Operations leader with experience working within cross-functional teams to drive
 - Troubleshoot or escalate customer queries and system/device failures
 - Collaborated with Engineering and IT Ops to develop a reliable and scalable 24/7 emergency escalation protocol.
 - Monitored a network of 12,000+ smart meters, configured devices for energy data collection, triaged network connectivity issues and escalated hardware and data issues.
+
+### GolfPlus USA, Wayland, MA	2004 – 2008
+#### Director of Operations & Customer Success
+- Managed a team of Customer Service and Field Operation Managers responsible for customer onboarding, maintenance, and support.
+- Worked closely with business development team to identify upsell opportunities and renewal risks. 
+- Responsible for GPS Mapping and data collection – Trimble GPS unit – GPS plot
+- Review and/or correct data integrity errors within the GIS Database.
+
+### AT&T Broadband, North Reading, MA	2000 – 2003
+#### Network Project Manager - Corporate IT Data Networks
+-Central Point of contact for Corporate IT projects related to Mergers and Acquisitions.
+-Partnered with legal and technical teams to review the scope within Transitional Services Agreements.
+-Managed timelines and communicated network asset integration/separation requirements with corporate IT network engineers and regional IT Directors.
+
+### Genuity, Cambridge, MA	 1999 – 2000
+#### Implementation Engineer
+- Provided internal & external technical support for enterprise customers within a 24/7/365 data center. 
+- Monitored backup and recovery systems, triaged connectivity issues, performed hardware/software upgrades, and followed escalation procedures when necessary.
+
+### SKILLS:
+Proficient: HTML, CSS, JavaScript
+Familiar: 
+
+### EDUCATION:
+### Boston College, Chestnut Hill, MA	
+- Bachelor of Arts
+
+### CERTIFICATIONS:
+#### Amazon Web Services
+- AWS Certified Developer – Associate (Credential ID: 4W4P9EJ1KJBE143K)
+- AWS Certified Solutions Architect – Associate (Credential ID: T3XPHN21J2411LGN
+
