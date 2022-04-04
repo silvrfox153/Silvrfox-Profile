@@ -23,7 +23,7 @@ Operations leader with experience working within cross-functional teams to drive
 - Managed one school committee and two city council campaigns.
 - Primary advisor to the candidates on local issues, and campaign strategy.
 - Managed fundraisers, and volunteer events. Oversaw budget, fundraising, and spending. 
-- Developed and maintained campaign websites. Integrated and managed third-party applications.
+- Developed and maintained campaign websites. Integrated and managed third-party APIs. 
 - Researched and analyzed data on past elections to determine insights on voter trends.
 - Organized voter outreach and canvassing events using digital tools such as Votebuilder, MiniVan, Open VPB, Hustle.
 - Developed print and digital marketing collateral to support campaign marketing.
