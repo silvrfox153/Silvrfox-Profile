@@ -21,7 +21,8 @@ Operations leader with experience working within cross-functional teams to drive
 | <img src="images/Ruth-Ryan-Allen-Cambridge.svg" alt="Ruth Ryan Allen Logo" style="width:100px;"> | www.ruthryanallen.com | Campaign Website
 
 
-### Cambridge Municipal Elections, Cambridge, MA
+### Cambridge Municipal Elections
+##### Cambridge, MA
 #### Campaign Manager
 - Managed one school committee and two city council campaigns.
 - Primary advisor to the candidates on local issues, and campaign strategy.
@@ -32,7 +33,8 @@ Operations leader with experience working within cross-functional teams to drive
 - Developed print and digital marketing collateral to support campaign marketing.
 
 
-### EnerNOC Inc., Boston, MA
+### EnerNOC Inc.
+##### Boston, MA
 #### Manager – Real-Time Operations - 2014 - 2016
 - Managed a (24/7/365) NOC operations team responsible for executing Demand Response protocols during grid-emergency dispatches and for scheduling energy market transactions.
 - Expert in executing dispatch requests by Transmission System Operators. Developed an understanding of the issues surrounding grid constraints, asset constraints, load curtailment, and frequency regulation 
@@ -55,20 +57,23 @@ Operations leader with experience working within cross-functional teams to drive
 - Collaborated with Engineering and IT Ops to develop a reliable and scalable 24/7 emergency escalation protocol.
 - Monitored a network of 12,000+ smart meters, configured devices for energy data collection, triaged network connectivity issues and escalated hardware and data issues.
 
-### GolfPlus USA, Wayland, MA	2004 – 2008
+### GolfPlus USA
+##### Wayland, MA	2004 – 2008
 #### Director of Operations & Customer Success
 - Managed a team of Customer Service and Field Operation Managers responsible for customer onboarding, maintenance, and support.
 - Worked closely with business development team to identify upsell opportunities and renewal risks. 
 - Responsible for GPS Mapping and data collection – Trimble GPS unit – GPS plot
 - Review and/or correct data integrity errors within the GIS Database.
 
-### AT&T Broadband, North Reading, MA	2000 – 2003
+### AT&T Broadband
+##### North Reading, MA	2000 – 2003
 #### Network Project Manager - Corporate IT Data Networks
 - Central Point of contact for Corporate IT projects related to Mergers and Acquisitions.
 - Partnered with legal and technical teams to review the scope within Transitional Services Agreements.
 - Managed timelines and communicated network asset integration/separation requirements with corporate IT network engineers and regional IT Directors.
 
-### Genuity, Cambridge, MA	 1999 – 2000
+### Genuity
+##### Cambridge, MA	 1999 – 2000
 #### Implementation Engineer
 - Provided internal & external technical support for enterprise customers within a 24/7/365 data center. 
 - Monitored backup and recovery systems, triaged connectivity issues, performed hardware/software upgrades, and followed escalation procedures when necessary.
@@ -77,7 +82,7 @@ Operations leader with experience working within cross-functional teams to drive
 #### Proficient: HTML, CSS, JavaScript, Markdown
 
 ### EDUCATION:
-### Boston College, Chestnut Hill, MA	
+### Boston College
 - Bachelor of Arts
 
 ### CERTIFICATIONS:
