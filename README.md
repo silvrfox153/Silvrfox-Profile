@@ -92,3 +92,4 @@ Operations leader with experience working within cross-functional teams to drive
 ##### AWS Certified Developer – Associate (Credential ID: 4W4P9EJ1KJBE143K)
 ##### AWS Certified Solutions Architect – Associate (Credential ID: T3XPHN21J2411LGN
 
+{% include disc.html %}
