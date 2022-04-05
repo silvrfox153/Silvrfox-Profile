@@ -81,14 +81,14 @@ Operations leader with experience working within cross-functional teams to drive
 - Monitored backup and recovery systems, triaged connectivity issues, performed hardware/software upgrades, and followed escalation procedures when necessary.
 
 ### SKILLS:
-#### Proficient: HTML, CSS, JavaScript, Markdown
+##### HTML, CSS, JavaScript, Markdown
 
 ### EDUCATION:
 ### Boston College
-- Bachelor of Arts
+##### Bachelor of Arts
 
 ### CERTIFICATIONS:
 #### Amazon Web Services
-- AWS Certified Developer – Associate (Credential ID: 4W4P9EJ1KJBE143K)
-- AWS Certified Solutions Architect – Associate (Credential ID: T3XPHN21J2411LGN
+##### AWS Certified Developer – Associate (Credential ID: 4W4P9EJ1KJBE143K)
+##### AWS Certified Solutions Architect – Associate (Credential ID: T3XPHN21J2411LGN
 
