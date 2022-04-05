@@ -3,8 +3,9 @@ Operations leader with experience working within cross-functional teams to drive
 
 
 ## PROFESSIONAL EXPERIENCE:
-### Web Designer | eCommerce Consultant
+### SilvrFox Media
 ##### Cambridge, MA
+#### Web Designer | eCommerce Consultant
 - Support small businesses launch and scale their ecommerce efforts from tech stack implementation to social media and email marketing execution.
 - Designed and developed eCommerce solutions using WordPress, Woocommerce, and Shipstation.
 - Integrated online payment gateways. Integrated PayPal and Stripe payment APIs.
