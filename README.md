@@ -14,11 +14,11 @@ Operations leader with experience working within cross-functional teams to drive
 
 | Projects | Website | Description
 | ----------- | ----------- |  ----------- 
-| <img src="images/paddys-logo-3.svg" alt="Paddy's Logo" style="width:100px;"> | [www.paddys34.com](www.paddys34.com) | eCommerce Website
-| <img src="images/leduc-art-antiques-logo-3.svg" alt="Leduc Art & Antiques Logo" style="width:100px;"> | [www.leducartandantiques.com](www.leducartandantiques.com) | Antique Store
-| <img src="images/Joe-McGuirk-Cambridge.svg" alt="Joe McGuirk Logo" style="width:100px;"> | www.joemcguirkforcambridge.com | Campaign Website
-| <img src="images/Sean-Tierney-Cambridge.svg" alt="Sean Tierney Logo" style="width:100px;"> | www.seantierney.org | Campaign Website
-| <img src="images/Ruth-Ryan-Allen-Cambridge.svg" alt="Ruth Ryan Allen Logo" style="width:100px;"> | www.ruthryanallen.com | Campaign Website
+| <img src="images/paddys-logo-3.svg" alt="Paddy's Logo" style="width:100px;"> | [www.paddys34.com](https://www.paddys34.com) | eCommerce Website
+| <img src="images/leduc-art-antiques-logo-3.svg" alt="Leduc Art & Antiques Logo" style="width:100px;"> | [www.leducartandantiques.com](https://www.leducartandantiques.com) | Antique Store
+| <img src="images/Joe-McGuirk-Cambridge.svg" alt="Joe McGuirk Logo" style="width:100px;"> | [www.joemcguirkforcambridge.com](https://www.joemcguirkforcambridge.com) | Campaign Website
+| <img src="images/Sean-Tierney-Cambridge.svg" alt="Sean Tierney Logo" style="width:100px;"> | [www.seantierney.org](https://www.seantierney.org) | Campaign Website
+| <img src="images/Ruth-Ryan-Allen-Cambridge.svg" alt="Ruth Ryan Allen Logo" style="width:100px;"> | [www.ruthryanallen.com](https://www.ruthryanallen.com) | Campaign Website
 
 
 ### Cambridge Municipal Elections
